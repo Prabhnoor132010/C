@@ -1,0 +1,33 @@
+#fgh_note{
+    color: black;
+}
+
+body{
+    background-size: cover;
+}
+#sp{
+    float: left;
+}
+
+#heading{
+font-size:23px;
+width:100%;
+margin:0px;
+}
+.ing{
+
+    width:200px;
+    border-radius:100px;
+}
+
+
+#speed{
+    font-size: 23px;
+    margin: 15px;
+}
+
+
+canvas{
+    border:5px solid wheat;
+    border-radius:20px;
+}
